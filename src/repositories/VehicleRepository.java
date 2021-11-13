@@ -18,3 +18,7 @@ public class VehicleRepository {
         return null;
     }
 }
+
+// Head First Design Patterns
+// refactoriing.guru
+
