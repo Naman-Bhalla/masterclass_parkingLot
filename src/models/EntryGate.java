@@ -1,4 +1,4 @@
 package models;
 
-public class EntryGate extends BaseModel {
+public class EntryGate extends Gate {
 }

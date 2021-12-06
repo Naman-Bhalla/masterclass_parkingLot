@@ -5,7 +5,7 @@ public class ExitGateController {
 
     }
 
-    void exit() {
+    ExitGateResponseDTO exit(ExitGateRequestDTO) {
         // Mark the slot as availablke
         // confirm the payment
         // mark the ticket as paid
